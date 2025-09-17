@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>padding-top-lg</class_name>
+        <container_class_name/>
+        <name>Flipkart - Container 4</name>
+        <order>4</order>
+        <semantic_tag/>
+        <sp_page display_value="copy_of_index_2">8b29c7f483c476106ddff4c6feaad3b9</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:35:32</sys_created_on>
+        <sys_id>9b29cbf483c476106ddff4c6feaad368</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Flipkart - Container 4</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_container_9b29cbf483c476106ddff4c6feaad368</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:35:46</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>46f31f1ddbd6f19c37d72a59139619c5</instance_id>
+        <instance_name>dev202748</instance_name>
+        <name>sp_container_9b29cbf483c476106ddff4c6feaad368</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>padding-top-lg</class_name><container_class_name/><name>Flipkart - Container 4</name><order>4</order><semantic_tag/><sp_page display_value="copy_of_index_2">8b29c7f483c476106ddff4c6feaad3b9</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-15 15:35:32</sys_created_on><sys_id>9b29cbf483c476106ddff4c6feaad368</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Flipkart - Container 4</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_container_9b29cbf483c476106ddff4c6feaad368</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-15 15:35:46</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-383100045</payload_hash>
+        <record_name>Flipkart - Container 4</record_name>
+        <reverted_from/>
+        <source>e75108a08304f2106ddff4c6feaad345</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:35:46</sys_created_on>
+        <sys_id>aa3903f483c476106ddff4c6feaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1994e0491330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:35:46</sys_updated_on>
+        <type>Container</type>
+        <update_guid>ee3903f410c476105e99b81f3fb28e0b</update_guid>
+        <update_guid_history>ee3903f410c476105e99b81f3fb28e0b:-383100045,1329cbf4f7c47610f36528c1bfa5ff6a:730588009</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Flipkart - Container 4">4379c33883c476106ddff4c6feaad3c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:36:54</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>283ec63e71ab48128a5e7a59d057ff24</sys_id>
+        <sys_metadata>9b29cbf483c476106ddff4c6feaad368</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Flipkart - Container 4</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_container_9b29cbf483c476106ddff4c6feaad368</sys_update_name>
+        <sys_update_version display_value="sp_container_9b29cbf483c476106ddff4c6feaad368">aa3903f483c476106ddff4c6feaad30c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:36:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>other</category>
+        <css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>copy_of_index_2</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:32:52</sys_created_on>
+        <sys_id>c8980f7483c476106ddff4c6feaad333</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>copy_of_index_2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_page_c8980f7483c476106ddff4c6feaad333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:33:08</sys_updated_on>
+        <title>Flipkart</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=c8980f7483c476106ddff4c6feaad333"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>46f31f1ddbd6f19c37d72a59139619c5</instance_id>
+        <instance_name>dev202748</instance_name>
+        <name>sp_page_c8980f7483c476106ddff4c6feaad333</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>other</category><css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css><draft>false</draft><dynamic_title_structure/><human_readable_url_structure/><id>copy_of_index_2</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-15 15:32:52</sys_created_on><sys_id>c8980f7483c476106ddff4c6feaad333</sys_id><sys_mod_count>1</sys_mod_count><sys_name>copy_of_index_2</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_page_c8980f7483c476106ddff4c6feaad333</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-15 15:33:08</sys_updated_on><title>Flipkart</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=c8980f7483c476106ddff4c6feaad333"/></record_update>]]></payload>
+        <payload_hash>-1642639108</payload_hash>
+        <record_name>copy_of_index_2</record_name>
+        <reverted_from/>
+        <source>e75108a08304f2106ddff4c6feaad345</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:33:08</sys_created_on>
+        <sys_id>84a88bb483c476106ddff4c6feaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1994e0228f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:33:08</sys_updated_on>
+        <type>Page</type>
+        <update_guid>0ca88bb4eec476108b8e038a57e1eab7</update_guid>
+        <update_guid_history>0ca88bb4eec476108b8e038a57e1eab7:-1642639108,04980f74a9c47610f6b365b3b66ae935:940555680</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="copy_of_index_2">fb0943f483c476106ddff4c6feaad388</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:35:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>2c2522b7dc90473c95ebb7d3d7fc1710</sys_id>
+        <sys_metadata>c8980f7483c476106ddff4c6feaad333</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_index_2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_page_c8980f7483c476106ddff4c6feaad333</sys_update_name>
+        <sys_update_version display_value="sp_page_c8980f7483c476106ddff4c6feaad333">84a88bb483c476106ddff4c6feaad3b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:35:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
